@@ -1,0 +1,15 @@
+[DEFAULT]
+
+[InfluxDB]
+Host: 192.168.122.151
+Port: 8086
+db_name: telegraf
+
+[FILE]
+FavoriteColor = Green
+
+[SectionThree]
+FamilyName: Johnson
+
+[Others]
+Route: 66
